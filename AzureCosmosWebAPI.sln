@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCosmosWebAPI", "AzureCosmosWebAPI\AzureCosmosWebAPI.csproj", "{B9C05758-927F-40A0-85A3-1167B9F11C7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C05758-927F-40A0-85A3-1167B9F11C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C05758-927F-40A0-85A3-1167B9F11C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C05758-927F-40A0-85A3-1167B9F11C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C05758-927F-40A0-85A3-1167B9F11C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C256580-40D2-4DF2-8AC2-99E5D90E4620}
+	EndGlobalSection
+EndGlobal
